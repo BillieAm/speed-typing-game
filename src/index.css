@@ -39,6 +39,7 @@ textarea {
   height: 200px;
   background-color: #00b800;
   padding: 1em;
+  caret-color: #00b800;
 }
 
 textarea:disabled {
